@@ -42,7 +42,7 @@ uvicorn app:app --reload --port 8000
 
 
 Then visit:
-👉 http://127.0.0.1:8000/ask?q=When%20is%20Layla%20planning%20her%20trip%20to%20London%3F
+👉 http://127.0.0.1:8000/
 
 🧠 API Overview
 Endpoint
@@ -94,3 +94,4 @@ Add unit tests for extractor functions.
 🧑‍💻 Author
 
 Greeshma Reddy Vallapureddy Gari
+
